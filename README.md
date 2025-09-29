@@ -4,7 +4,7 @@ Estava planejando este eBook antes do Bootcamp; com o Bootcamp, vi a oportunidad
 
 ## Conteúdo do Repositório
 
-- 📄 **docs/** → PDF do eBook  
+- 📄 [`docs/`](/docs) → PDF do eBook  
 
 O eBook contempla todas as propostas do desafio do Bootcamp, oferecendo uma visão completa do projeto.
 
